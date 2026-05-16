@@ -6,3 +6,5 @@ const MESSAGES = {
 };
 
 export default MESSAGES;
+
+const test = 5;
